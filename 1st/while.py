@@ -1,5 +1,8 @@
 #include <stdio.h>
 #while loop
+# the while loop will continue executing as 
+#long as the user enters a number other than -1. Inside the loop, you can perform operations or actions based on the user input. In this example, 
+#we simply print the entered number.
 
 int main() {
     int input;
